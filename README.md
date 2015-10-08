@@ -1,5 +1,5 @@
 # Ahmed Abdalla  
-##### Class Schedule:git push -u origin master  
+##### Class Schedule:  
 1. Software Engineering
 2. History
 3. Gym
