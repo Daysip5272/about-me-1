@@ -7,5 +7,10 @@
 5. Spanish 
 6. ELA
 7. Lunch
-8. Physics
+8. Physics  
+  
+ ### _Hobbies:_
+  - **Football**  
+  - **Track**
+  - **Software Engineering**
  
