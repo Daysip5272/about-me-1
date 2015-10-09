@@ -6,11 +6,13 @@
 4. Trigonometry 
 5. Spanish 
 6. ELA
-7. Lunch
-8. Physics  
+7. Lunch  
+8. Physics
+
   
  ### _Hobbies:_
-  - **Football**  
+  - Football  
+      - Running Back/Wide Receiver.
   - **Track**
   - **Software Engineering**
  
