@@ -18,5 +18,5 @@ ___
   - **Software Engineering**  
       - Web Design/Coding  
         
-        ### Follow me on Instagram: [@PYBAhmed](www.g.com/pybahmed) :heart_eyes: :fire: :sweat_drops: 
+        ### Follow me on Instagram: [@PYBAhmed](www.instagram.com/pybahmed) :heart_eyes: :fire: :sweat_drops: 
  
