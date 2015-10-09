@@ -11,8 +11,10 @@
 
   
  ### _Hobbies:_
-  - Football  
+  - **Football**  
       - Running Back/Wide Receiver.
-  - **Track**
-  - **Software Engineering**
+  - **Track**  
+      - Long Distance/Short Dashes 
+  - **Software Engineering**  
+      - Web Design/Coding 
  
